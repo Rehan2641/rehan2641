@@ -21,10 +21,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -33,7 +31,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
@@ -48,7 +45,7 @@
 - 🔐 Exploring **cybersecurity & ethical hacking** on the side (Kali Linux, Nmap)
 - 💼 Looking for **Data Analyst internship** opportunities as a fresher
 - 👯 Open to collaborating on interesting Python / data projects
-- ⚔️ Fun fact: big Bleach fan — always up for anime recommendations
+- ⚔️ Fun fact: big Naruto fan — always up for anime recommendations
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rehan-ahmad-711222373) · rehan8750156416@gmail.com
 
 </details>
