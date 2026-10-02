@@ -1,6 +1,6 @@
 # 📊 Data Analysis Portfolio
 
-Hi, I'm **Rehan** 👋 — a BCA (Data Science) student at IMT College, Faridabad, aspiring **Data Analyst**.
+Hi, I'm **Rehan Ahmad** 👋 — a BCA (Data Science) student at IMT College, Faridabad, aspiring **Data Analyst**.
 This repository brings together my data analysis work: collecting data, cleaning it, exploring it, and turning it into insights and dashboards.
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -73,8 +73,8 @@ This repository brings together my data analysis work: collecting data, cleaning
 
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
-| **Sales Dashboard** | Interactive sales dashboard built from a sales dataset | Excel | [PROJECT.xlsx](./PROJECT.xlsx) |
-| **Employee Data Generator** | Generates a synthetic 1,000-row Indian employee dataset and exports it to Excel | Python, pandas, Faker | [View code](#) |
+| **Sales Dashboard** | Interactive sales dashboard built from a sales dataset | Excel | [PROJECT.xlsx](https://github.com/Rehan2641/excel-sales-dashboard) |
+| **Employee Data Generator** | Generates a synthetic 1,000-row Indian employee dataset and exports it to Excel | Python, pandas, Faker | [https://github.com/Rehan2641/employee-data-generator](#) |
 | **Data Analytics Dashboard** | Dashboard turning raw data into key business insights | Power BI / Tableau | _Coming soon_ |
 | **SQL Analysis** | Business questions answered with MySQL queries | MySQL | _Coming soon_ |
 
@@ -129,7 +129,7 @@ This repository brings together my data analysis work: collecting data, cleaning
 ## 📬 Connect With Me
 
 - 💻 GitHub: [@rehan2641](https://github.com/rehan2641)
-- 💼 LinkedIn: www.linkedin.com/in/rehan-ahmad-711222373
+- 💼 LinkedIn: https://www.linkedin.com/in/rehan-ahmad-711222373/
 - 📧 Email: rehan8750156416@gmail.com
 
 ⭐ If you found this repo useful, feel free to give it a star!
