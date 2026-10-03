@@ -108,7 +108,7 @@ This repository brings together my data analysis work: collecting data, cleaning
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/rehan2641/<repo-name>.git
+  https://github.com/Rehan2641/excel-sales-dashboard.git
    ```
 2. Install the Python libraries
    ```bash
