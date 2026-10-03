@@ -107,13 +107,16 @@ This repository brings together my data analysis work: collecting data, cleaning
 ## 🚀 How to Use This Repo
 
 1. Clone the repository
-   ```bash
-  https://github.com/Rehan2641/excel-sales-dashboard.git
-   ```
+```bash
+   git clone https://github.com/Rehan2641/excel-sales-dashboard.git
+   cd excel-sales-dashboard
+```
+
 2. Install the Python libraries
-   ```bash
+```bash
    pip install numpy pandas jupyter faker openpyxl
-   ```
+```
+
 3. Open the notebooks in `python/`, run the `.sql` files in MySQL Workbench, and open the `.pbix` / `.twbx` files in Power BI Desktop / Tableau.
 
 ---
