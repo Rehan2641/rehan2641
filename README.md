@@ -3,15 +3,22 @@
 Hi, I'm **Rehan Ahmad** 👋 — a BCA (Data Science) student at IMT College, Faridabad, aspiring **Data Analyst**.
 This repository brings together my data analysis work: collecting data, cleaning it, exploring it, and turning it into insights and dashboards.
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+## 🧰 Technology Stack
+
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></a>
+</p>
+
+<p align="center">
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" /></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" /></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
+</p>
 
 ---
 
@@ -86,11 +93,9 @@ This repository brings together my data analysis work: collecting data, cleaning
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
 | **Sales Dashboard** | Interactive sales dashboard built from a sales dataset | Excel | [PROJECT.xlsx](https://github.com/Rehan2641/excel-sales-dashboard) |
-| **Employee Data Generator** | Generates a synthetic 1,000-row Indian employee dataset and exports it to Excel | Python, pandas, Faker |[Employee-data] [https://github.com/Rehan2641/employee-data-gen[...]
+| **Employee Data Generator** | Generates a synthetic 1,000-row Indian employee dataset and exports it to Excel | Python, pandas, Faker | [Employee Data](https://github.com/Rehan2641/employee-data) |
 | **Data Analytics Dashboard** | Dashboard turning raw data into key business insights | Power BI / Tableau | _Coming soon_ |
 | **SQL Analysis** | Business questions answered with MySQL queries | MySQL | _Coming soon_ |
-
-> ✏️ Replace the `#` links with the actual folder/file paths in this repo.
 
 ---
 
@@ -120,13 +125,13 @@ This repository brings together my data analysis work: collecting data, cleaning
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/Rehan2641/excel-sales-dashboard.git
-   cd excel-sales-dashboard
+git clone https://github.com/Rehan2641/excel-sales-dashboard.git
+cd excel-sales-dashboard
 ```
 
 2. Install the Python libraries
 ```bash
-   pip install numpy pandas jupyter faker openpyxl
+pip install numpy pandas jupyter faker openpyxl
 ```
 
 3. Open the notebooks in `python/`, run the `.sql` files in MySQL Workbench, and open the `.pbix` / `.twbx` files in Power BI Desktop / Tableau.
