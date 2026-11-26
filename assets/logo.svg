@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Rehan Ahmad — Data Analyst</title>
+  <desc id="desc">A modern dark portfolio banner with an RA monogram and an interactive-looking rising data chart.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#172b3b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity=".02"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="998" height="278" rx="28" fill="url(#bg)" stroke="#314357" stroke-width="2"/>
+  <circle cx="170" cy="140" r="91" fill="url(#glow)"/>
+  <rect x="74" y="45" width="190" height="190" rx="34" fill="#132238" stroke="#2dd4bf" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M108 184V96h39c25 0 39 13 39 34 0 16-8 27-22 32l30 22h-34l-25-20h-1v20zm26-42h12c9 0 14-4 14-12s-5-12-14-12h-12z" fill="url(#accent)"/>
+  <path d="M181 184l34-88h25l34 88h-28l-5-16h-29l-5 16zm37-36h17l-8-27z" fill="#e6f4ff" transform="translate(-12 0)"/>
+  <g fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M648 189h267" stroke="#52677e" stroke-width="2"/>
+    <path d="M674 174l48-42 43 20 57-60 39 23 43-49" stroke-width="6"/>
+  </g>
+  <g fill="#172b3b" stroke="#5eead4" stroke-width="4">
+    <circle cx="674" cy="174" r="7"/><circle cx="722" cy="132" r="7"/><circle cx="765" cy="152" r="7"/><circle cx="822" cy="92" r="7"/><circle cx="861" cy="115" r="7"/><circle cx="904" cy="66" r="7"/>
+  </g>
+  <path d="M674 174l48-42 43 20 57-60 39 23 43-49v123H674z" fill="url(#glow)" opacity=".8"/>
+  <text x="318" y="115" fill="#f3f8ff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="1">REHAN AHMAD</text>
+  <text x="320" y="157" fill="#9fb3c8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3">DATA ANALYST · DATA SCIENCE</text>
+  <rect x="320" y="188" width="207" height="3" rx="2" fill="url(#accent)"/>
+  <text x="320" y="222" fill="#75e6d5" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.5">TURNING DATA INTO INSIGHT</text>
+</svg>
