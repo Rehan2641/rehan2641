@@ -8,6 +8,8 @@ This repository brings together my data analysis work: collecting data, cleaning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
@@ -56,6 +58,16 @@ This repository brings together my data analysis work: collecting data, cleaning
 - Cleaning: `dropna`, `fillna`, `drop_duplicates`, type conversion
 - Filtering, sorting, `groupby`, merging and summarising data
 
+### 📊 Matplotlib
+- Creating charts such as line plots, bar charts, histograms and scatter plots
+- Customising plot titles, labels, colours, legends and axes
+- Visualising trends and patterns in data
+
+### 🌊 Seaborn
+- Creating attractive statistical charts with simple Python code
+- Visualising distributions and relationships with plots such as histograms, box plots and scatter plots
+- Using heatmaps to explore correlations and patterns
+
 ### 📈 Power BI
 - Importing and transforming data with Power Query
 - Building data models and relationships
@@ -74,7 +86,7 @@ This repository brings together my data analysis work: collecting data, cleaning
 | Project | Description | Tools | Link |
 |---------|-------------|-------|------|
 | **Sales Dashboard** | Interactive sales dashboard built from a sales dataset | Excel | [PROJECT.xlsx](https://github.com/Rehan2641/excel-sales-dashboard) |
-| **Employee Data Generator** | Generates a synthetic 1,000-row Indian employee dataset and exports it to Excel | Python, pandas, Faker |[Employee-data] [https://github.com/Rehan2641/employee-data-generator](#) |
+| **Employee Data Generator** | Generates a synthetic 1,000-row Indian employee dataset and exports it to Excel | Python, pandas, Faker |[Employee-data] [https://github.com/Rehan2641/employee-data-gen[...]
 | **Data Analytics Dashboard** | Dashboard turning raw data into key business insights | Power BI / Tableau | _Coming soon_ |
 | **SQL Analysis** | Business questions answered with MySQL queries | MySQL | _Coming soon_ |
 
