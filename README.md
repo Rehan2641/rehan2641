@@ -8,10 +8,10 @@ This repository brings together my data analysis work: collecting data, cleaning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/SEABORN-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -57,6 +57,18 @@ This repository brings together my data analysis work: collecting data, cleaning
 - Reading data (`read_csv`, `read_excel`) and exporting results
 - Cleaning: `dropna`, `fillna`, `drop_duplicates`, type conversion
 - Filtering, sorting, `groupby`, merging and summarising data
+
+### 📉 Matplotlib
+- Creating line, bar, scatter, histogram and pie charts
+- Customising titles, labels, legends, colours and gridlines
+- Plotting multiple charts together using subplots
+- Saving charts as images with `savefig()`
+
+### 🌊 Seaborn
+- Statistical plots: `histplot`, `boxplot`, `violinplot`, `countplot`
+- Relationship plots: `scatterplot`, `lineplot`, `pairplot`
+- Correlation heatmaps with `heatmap`
+- Built-in themes and colour palettes for cleaner visuals
 
 ### 📈 Power BI
 - Importing and transforming data with Power Query
